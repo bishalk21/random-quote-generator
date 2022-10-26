@@ -1,4 +1,4 @@
-Link:
+Link: https://bishalk21.github.io/random-quote-generator/
 From this project, I learned how to use the Fetch API to make requests to an external API and how to use the async/await syntax.
 
 ## What I built
